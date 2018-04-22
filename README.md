@@ -5,3 +5,5 @@
 * [HAL media type - JSON Hypertext Application Language](https://tools.ietf.org/html/draft-kelly-json-hal-06)
 
 * [Collection+JSON media type](http://amundsen.com/media-types/collection/format/)
+
+* [Problem+JSON media type](https://tools.ietf.org/html/rfc7807)
