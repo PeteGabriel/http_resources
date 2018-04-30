@@ -1,4 +1,4 @@
-# Resources to help dealing with HTTP APIs
+# Resources to help dealing with Web APIs
 
 * [Best Practices in general](http://httpwg.org/http-extensions/draft-ietf-httpbis-bcp56bis.html)
 
